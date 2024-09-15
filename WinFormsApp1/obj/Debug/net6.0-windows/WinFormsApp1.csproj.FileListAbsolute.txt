@@ -1,0 +1,50 @@
+D:\c#\999999999999999999\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\c#\999999999999999999\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\c#\999999999999999999\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\c#\999999999999999999\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\c#\999999999999999999\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\c#\999999999999999999\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\c#\9 (X si 0)\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\c#\9 (X si 0)\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
